@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-firebase",
+  "name": "nuxt-firebase-auth",
   "version": "1.0.0",
   "description": "manage users in your nuxt application with firebase",
   "author": "Julian Schaefer",
